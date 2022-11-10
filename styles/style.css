@@ -497,5 +497,9 @@ footer {
 
 @media (max-width: 400px) {}
 
+body{
+color:red;
+}
+
 
 /* responsive ends here  */
